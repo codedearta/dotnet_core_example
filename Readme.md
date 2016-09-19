@@ -1,4 +1,4 @@
-1. install dontent-core url: https://www.microsoft.com/net/core#macos
+1. install dotnet-core url: https://www.microsoft.com/net/core#macos
 
 2. clone this repo
 
