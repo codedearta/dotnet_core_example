@@ -1,0 +1,1 @@
+installation url: https://www.microsoft.com/net/core#macos
